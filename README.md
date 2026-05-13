@@ -10,3 +10,19 @@
 
 必须配合https://github.com/zhaochengcube/augment-token-mng 工具使用
 
+
+
+\---
+
+
+
+2026-05-13 更
+
+
+
+本插件不再提供防封功能，可自行搭建augment网关使用
+
+网关可参考开源项目：https://github.com/linqiu919/augment-open-gateway 和对应的插件：https://github.com/linqiu919/augment-open-patch
+
+
+
